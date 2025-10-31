@@ -1,0 +1,6 @@
+[user]
+	name = QK
+	email = 1324575148@qq.com
+[core]
+	autocrlf = input
+	excludesfile = C:\\Users\\QK\\.gitignore_global

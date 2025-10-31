@@ -1,0 +1,9 @@
+Font=Consolas
+FontHeight=14
+Locale=zh_CN
+Charset=UTF-8
+ThemeFile=xterm
+Columns=120
+Rows=30
+RewrapOnResize=yes
+Language=zh_CN

@@ -1,0 +1,5 @@
+root: D:\dev\nvm
+arch: 64
+proxy: none
+node_mirror: https://npmmirror.com/mirrors/node/
+npm_mirror: https://npmmirror.com/mirrors/npm/
